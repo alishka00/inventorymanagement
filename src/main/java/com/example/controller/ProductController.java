@@ -1,7 +1,7 @@
-package com.example.inventorymanagement.controller;
+package com.example.controller;
 
-import com.example.inventorymanagement.model.Product;
-import com.example.inventorymanagement.service.ProductService;
+import com.example.model.Product;
+import com.example.service.ProductService;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;
 

@@ -1,7 +1,7 @@
-package com.example.inventorymanagement.service;
+package com.example.service;
 
-import com.example.inventorymanagement.model.Product;
-import com.example.inventorymanagement.repository.ProductRepository;
+import com.example.model.Product;
+import com.example.repository.ProductRepository;
 import org.springframework.stereotype.Service;
 import java.util.List;
 
